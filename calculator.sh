@@ -1,1 +1,4 @@
-x=a+b
+a=10
+b=20
+result=a+b
+echo " Addition: $result "
